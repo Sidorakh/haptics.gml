@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"haptics",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"haptics",
+  "parent":{
+    "name":"haptics.gml",
+    "path":"folders/Extensions/haptics.gml.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
