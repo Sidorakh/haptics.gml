@@ -55,7 +55,7 @@
   "packageId":"",
   "parent":{
     "name":"haptics.gml",
-    "path":"folders/Extensions/haptics.gml.yy",
+    "path":"folders/haptics.gml.yy",
   },
   "productId":"",
   "resourceType":"GMExtension",

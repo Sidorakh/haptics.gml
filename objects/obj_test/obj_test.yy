@@ -8,8 +8,8 @@
   "name":"obj_test",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"haptics.gml",
+    "path":"folders/haptics.gml.yy",
   },
   "parentObjectId":null,
   "persistent":false,

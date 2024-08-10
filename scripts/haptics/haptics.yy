@@ -6,7 +6,7 @@
   "name":"haptics",
   "parent":{
     "name":"haptics.gml",
-    "path":"folders/Extensions/haptics.gml.yy",
+    "path":"folders/haptics.gml.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
