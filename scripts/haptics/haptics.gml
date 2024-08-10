@@ -11,6 +11,7 @@ function haptics_vibrate(pattern) {
 	var retval = undefined;
 	var list = ds_list_create();
 	for (var i=0;i<array_length(pattern);i++) {
+		ds_list_insert(list,0,0);
 		ds_list_add(list,pattern[i]);	
 	}
 	if (os_type == os_android) {
